@@ -13,15 +13,15 @@ The project aims to provide the points that, given two to three hours to thoroug
 
 These include:
 
-A summary of the content
-The main ideas
-The most insightful quotes
-The most interesting opinions
-Influences of the speakers or the content
-Habits of the speakers
-Facts or background on the topics
-Resources for further reading
-Nuggets of wisdom
-Recommendations based on what was talked about
-A rating of how urgently you should watch the whole thing
+- A summary of the content
+- The main ideas
+- The most insightful quotes
+- The most interesting opinions
+- Influences of the speakers or the content
+- Habits of the speakers
+- Facts or background on the topics
+- Resources for further reading
+- Nuggets of wisdom
+- Recommendations based on what was talked about
+- A rating of how urgently you should watch the whole thing
 
